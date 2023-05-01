@@ -1,5 +1,5 @@
 {
-    "name": "itsromack/ccs06-login-reg",
+    "name": "kovlor13/ccs06-login-reg",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
